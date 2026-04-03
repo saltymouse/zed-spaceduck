@@ -3,11 +3,22 @@
 A port of the [Spaceduck](https://github.com/spaceduck-theme/vscode) color theme for [Zed](https://zed.dev/).
 
 ## Variants
-
-- **Spaceduck** — the main dark theme
-- **Spaceduck OG** — the original spaceduck palette (purple keywords, teal strings, amber types)
-- **Spaceduck Mira** — a second dark variant with blue-tinted strings and yellow numbers
-- **Spaceduck Light** — a warm cream light theme
+<details>
+    <summary>🦆 Spaceduck</summary>
+    <img src="screenshots/zed-spaceduck.png" alt="Spaceduck theme">
+</details>
+<details>
+    <summary>😎 Spaceduck OG</summary>
+    <img src="screenshots/zed-spaceduck-og.png" alt="Spaceduck theme">
+</details>
+<details>
+    <summary>🌌 Spaceduck Mira</summary>
+    <img src="screenshots/zed-spaceduck-mira.png" alt="Spaceduck theme">
+</details>
+<details>
+    <summary>🌅 Spaceduck Light</summary>
+    <img src="screenshots/zed-spaceduck-light.png" alt="Spaceduck theme">
+</details>
 
 ## Installation
 

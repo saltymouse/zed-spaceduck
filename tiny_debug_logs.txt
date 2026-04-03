@@ -1,0 +1,4 @@
+
+*** Logging started at 2026-04-03 23:23:49
+
+[2026-04-03 23:23:49] ERROR [crates/term_input/src/lib.rs:521] Unable to parse stdin flags: 10002

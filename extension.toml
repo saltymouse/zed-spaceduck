@@ -1,0 +1,10 @@
+id = "spaceduck"
+name = "Spaceduck"
+schema_version = 1
+version = "1.0.0"
+authors = ["saltymouse"]
+description = "🦆 Space-themed color theme for Zed"
+repository = "https://github.com/saltymouse/zed-spaceduck"
+
+[themes]
+path = "themes"
